@@ -22,4 +22,4 @@ client.on("message", message =>{
         }
       })
       
-       client.login("ODAzNDE0NjY0ODIxMDgwMDc0.YA9cNg.Ad5utkAGalvfAigmdsklj-fMoCg"); 
+       client.login("Aqui va tu token"); 
